@@ -40,6 +40,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+.ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
 
 a {
     color: #ffffff;
